@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @devsingh74
+- 👋 Hi, I’m Dev
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning cpp
-- 💞️ I’m looking to collaborate on project 
+- 💞️ I’m looking to collaborate on projects 
 - 📫 How to reach me db263652d@gmail.com
 
 
